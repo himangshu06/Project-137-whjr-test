@@ -1,0 +1,8 @@
+body{
+    background-size: cover;
+}
+#load_status{
+    text-align: center;
+    color: white;
+    margin-top: 45%;
+}
